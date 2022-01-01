@@ -3,4 +3,4 @@
 <h4> <b> Source: </b> Youtube </h4>
 <h4> Video </h4>
 <br>
-<video src="https://drive.google.com/file/d/1vQIAILrbNl59cbYkeAJqroWkAi9W94b2/view?usp=sharing">
+<video src="https://drive.google.com/file/d/1vQIAILrbNl59cbYkeAJqroWkAi9W94b2/view">
